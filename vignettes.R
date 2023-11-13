@@ -1,7 +1,6 @@
 install.packages('AlgDesign')
 library(AlgDesign)
 
-install.packages('ConfDesign')
 install.packages('conf.design')
 library(conf.design)
 
